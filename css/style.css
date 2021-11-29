@@ -64,7 +64,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family: Copperplate, "Copperplate Gothic Light";
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -976,7 +976,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgba(0, 0, 0, 0.04);
 }
 .fh5co-tabs .fh5co-tab-content-wrap .feed > div h3 {
-  font-family: "Playfair Display", serif;
+  font-family: Copperplate, "Copperplate Gothic Light";
   font-size: 18px;
   display: inline-block;
   padding-right: 20px;
