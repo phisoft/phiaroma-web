@@ -340,7 +340,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
   font-size: 24px;
-  font-weight: 400;
+  font-weight: bold;
   color: #000;
   text-transform: uppercase;
   letter-spacing: 2px;
