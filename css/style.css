@@ -141,8 +141,6 @@ h1, h2, h3, h4, h5, h6, figure {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .fh5co-nav .menu-2 li button {
-  margin-top: 4px;
-  padding: 5px;
   background: transparent;
   border: none;
 }
@@ -184,7 +182,6 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav ul li {
   padding: 0;
-  margin-top: 12px;
   list-style: none;
   display: inline-block;
   font-family: "Montserrat", Arial, sans-serif;
@@ -790,7 +787,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .product .product-grid {
   background-size: cover;
-  background-position: top center;
+  background-position: center;
   background-repeat: no-repeat;
   position: relative;
   height: 350px;
